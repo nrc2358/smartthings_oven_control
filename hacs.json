@@ -1,0 +1,9 @@
+{
+    "name": "SmartThings Oven Control",
+    "hacs": "1.6.0",
+    "domains": ["smartthings_oven_control"],
+    "iot_class": "Cloud Polling",
+    "homeassistant": "2023.1.0",
+    "render_readme": true,
+    "country": ["US", "CA", "GB", "AU"]
+}
