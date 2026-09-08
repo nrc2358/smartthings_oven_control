@@ -6,11 +6,11 @@
         "application_credentials"
     ],
     "config_flow": true,
-    "documentation": "https://github.com/gwyntel/smartthings_oven_control/blob/main/README.md",
-    "issue_tracker": "https://github.com/gwyntel/smartthings_oven_control/issues",
+    "documentation": "https://github.com/nrc2358/smartthings_oven_control/blob/main/README.md",
+    "issue_tracker": "https://github.com/nrc2358/smartthings_oven_control/issues",
     "version": "1.1.0",
     "codeowners": [
-        "@gwyntel"
+        "@nrc2358"
     ],
     "iot_class": "cloud_polling",
     "requirements": [],
